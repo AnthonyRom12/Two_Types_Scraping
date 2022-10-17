@@ -21,4 +21,4 @@ soupsieve==2.3.2.post1
 urllib3==1.26.12
 yarl==1.8.1
 ```
-__Using the asynchronous library, we spend 3 times less time on parsing than with the usual one__
+__Using the asynchronous library, we spend 3 times less time on scraping than with the usual one__
